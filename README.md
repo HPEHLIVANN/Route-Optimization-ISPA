@@ -81,18 +81,19 @@ This is the main module that performs the multi-method analysis and generates th
 
 If you use this code in your research, please cite our paper:
 
-[**Your Name(s). (Year). Article Title. *Journal Name*, Volume(Issue), pages. https://doi.org/your_doi_link**]
+Pehlivan, H. (2025). Iterative Score Propagation Algorithm (ISPA): A GNN-Inspired Framework for Multi-Criteria Route Design with Engineering Applications. ISPRS International Journal of Geo-Information, 14(12), 484. https://doi.org/10.3390/ijgi14120484
+
 
 ```bibtex
 @article{Pehlivan2025,
-  title   = {{Article Title}},
-  author  = {Your, Name and Coauthor, Name},
-  journal = {Journal Name},
-  year    = {Year},
-  volume  = {XX},
-  number  = {X},
-  pages   = {XXX--XXX},
-  doi     = {your_doi_link}
+  title   = Iterative Score Propagation Algorithm (ISPA): A GNN-Inspired Framework for Multi-Criteria Route Design with Engineering Applications,
+  author  = Hüseyin Pehlivan,
+  journal = ISPRS International Journal of Geo-Information,
+  year    = 2025,
+  volume  = 14,
+  number  = 12,
+  pages   = 484,
+  doi     = https://doi.org/10.3390/ijgi14120484
 }
 ```
 
